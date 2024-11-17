@@ -1,0 +1,17 @@
+{
+  "EXPLORE": [
+    { "total": 4 },
+    {
+      "KEY": [
+        { "id": 1, "name": "Navigating Crypto", "keyword": "HEYBLUM" },
+        {
+          "id": 2,
+          "name": "Secure your Crypto!",
+          "keyword": "BEST PROJECT EVER"
+        },
+        { "id": 3, "name": "Forks Explained", "keyword": "GO GET" },
+        { "id": 4, "name": "How to Analyze Crypto?", "keyword": "VALUE" }
+      ]
+    }
+  ]
+}
